@@ -1,5 +1,5 @@
 --[[
-	@author Jorsan
+	@author LoL
 ]]
 
 -- Validate game
