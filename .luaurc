@@ -1,0 +1,14 @@
+{
+  "aliases": {
+    "classes": "./src/Classes",
+    "pkgs": "./Packages",
+    "src": "./src",
+    "libraries": "./Libraries"
+  },
+  
+  "globals": [],
+  "languageMode": "strict",
+  "lint": {},
+  "lintErrors": true,
+  "typeErrors": true
+}
