@@ -97,4 +97,4 @@ GlobalScriptState.IsScriptReady = true
 GlobalScriptState.ScriptReady:Fire()
 
 UI:Notify("Script executed successfully!", 4)
-UI:Notify("Script authored by: Jorsan, enjoy!", 4)
+UI:Notify("Script by LoL, Enjoy the script!", 4)
